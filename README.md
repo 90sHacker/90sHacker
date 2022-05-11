@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @90sHacker
 - 👀 I’m interested in Web development and Web3.0
-- 🌱 I’m currently learning node.js using Express
+- 🌱 I’m currently building in node.js using Express
 - 💞️ I’m looking to collaborate on exciting web projects
 - 📫 How to reach me - tito.sho@outlook.com
 
