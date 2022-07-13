@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tito
-- 👀 I’m interested in Web development and Web3.0
-- 🌱 I’m currently building in node.js using Express
+- 👀 I’m interested in Web development, Web3.0 and ML
+- 🌱 I’m currently building in node.js using Express, and Python
 - 💞️ I’m looking to collaborate on exciting web projects
 - 📫 How to reach me - tito.sho@outlook.com
 
